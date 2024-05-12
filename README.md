@@ -1,1 +1,1 @@
-# cs5170_data_mining
+# CS5170_data_mining
